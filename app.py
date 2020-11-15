@@ -65,7 +65,7 @@ def predict():
 		else:
 			Transmission_Mannual=0
 		test_data.append(Transmission_Mannual)
-		
+		print("INPUT DATA",test_data)
 		prediction=model.predict([test_data])
 		print("PREDICTED ANSWER",prediction)
 		output=round(prediction[0],2)
