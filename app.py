@@ -7,7 +7,7 @@ import requests
 import pickle
 import numpy as np
 
-from sklearn import preprocessing, metrics
+#from sklearn import preprocessing, metrics
 
 
 app = Flask(__name__)

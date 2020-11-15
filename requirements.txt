@@ -5,4 +5,3 @@ pandas
 jsonify
 numpy
 requests
-pickle
