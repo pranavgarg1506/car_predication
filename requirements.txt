@@ -5,3 +5,4 @@ pandas
 jsonify
 numpy
 requests
+sklearn
